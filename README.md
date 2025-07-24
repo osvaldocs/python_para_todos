@@ -4,7 +4,7 @@ Este repositorio contiene los ejercicios que voy resolviendo del libro **"Python
 
 ## 🗂️ Estructura del Repositorio
 
-/
+...
 ├── capitulo_01/
 │ └── ejercicio1.py
 ├── capitulo_02/
