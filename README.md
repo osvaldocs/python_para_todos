@@ -1,51 +1,49 @@
- 📘 Ejercicios de Python - "Python para Todos"
+# Python Para Todos
 
-Este repositorio contiene los ejercicios que voy resolviendo del libro **"Python para todos"** de **Charles R. Severance (Dr. Chuck)**. El objetivo es fortalecer mi base en programación con Python mediante práctica diaria y reflexión sobre cada concepto.
+Este repositorio contiene ejercicios y ejemplos prácticos del curso **Python para Todos**, organizados por capítulos.
 
-## 🗂️ Estructura del Repositorio
+## 📚 Contenido
 
-...
+- Fundamentos de programación en Python.
+- Tipos de datos, estructuras de control y funciones.
+- Archivos, manejo de errores y más.
+
+## 🗂️ Estructura del proyecto
+
+```
+/
 ├── capitulo_01/
-│ └── ejercicio1.py
+│   └── ejercicio1.py
 ├── capitulo_02/
-│ └── ejercicio2.py
+│   └── ejercicio2.py
 ├── capitulo_03/
-│ └── ejercicio3.py
-...
+│   └── ejercicio3.py
+```
 
-markdown
-Copiar
-Editar
+> Cada carpeta corresponde a un capítulo del curso y contiene los ejercicios respectivos.
 
-Cada carpeta corresponde a un capítulo del libro e incluye los ejercicios resueltos con comentarios.
+## 🚀 Cómo ejecutar
 
-## 🔤 Temas Abordados
+1. Cloná el repositorio:
+   ```bash
+   git clone https://github.com/osvaldocs/python_para_todos.git
+   cd python_para_todos
+   ```
 
-- Entrada y salida de datos
-- Tipos de datos y variables
-- Condicionales
-- Bucles
-- Funciones
-- Manejo de archivos
-- Cadenas de texto
-- Listas, diccionarios y tuplas
-- Manejo de errores
-- Expresiones regulares
-- Conexión con bases de datos (SQLite)
-- Parsing de XML y JSON
+2. (Opcional) Crear y activar un entorno virtual:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate  # En Linux/Mac
+   .venv\Scripts\activate     # En Windows
+   ```
 
-> Este listado se irá completando a medida que avanzo con el libro.
+3. Ejecutá cualquier script:
+   ```bash
+   python capitulo_01/ejercicio1.py
+   ```
 
-## 🎯 Objetivo
+## 🧠 Objetivo
 
-Aprender a programar en Python desde cero y sentar las bases para enfocarme en desarrollo backend. Este aprendizaje se complementa con otros cursos como el de Python de la Universidad de Michigan (Coursera).
-
-## 🧠 Notas
-
-- Todos los ejercicios fueron escritos, probados y comentados por mí.
-- Se prioriza la comprensión profunda más que la velocidad de avance.
-- El libro es de acceso libre y está disponible en español: [https://py4e.com](https://py4e.com)
+Este proyecto tiene fines educativos. Sirve para practicar desde cero hasta temas más avanzados de Python, siguiendo una progresión ordenada y con ejemplos claros.
 
 ---
-
-📌 *Repositorio en progreso.*
