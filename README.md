@@ -1,6 +1,11 @@
 # Python Para Todos
 
-Este repositorio contiene ejercicios y ejemplos prácticos del curso **Python para Todos**, organizados por capítulos.
+
+Este repositorio contiene los ejercicios resueltos del libro **"Python para todos"** de **Charles R. Severance** (también conocido como Dr. Chuck).
+Es requisito leer el libro para poder realizar el curso base de datos de la Universidad de Michigan
+
+El propósito de este proyecto,  es reforzar y practicar conceptos fundamentales de programación en Python, siguiendo la estructura del libro.
+
 
 ## 📚 Contenido
 
