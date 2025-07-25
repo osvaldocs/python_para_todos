@@ -23,6 +23,8 @@ El propósito de este proyecto,  es reforzar y practicar conceptos fundamentales
 │   └── ejercicio2.py
 ├── capitulo_03/
 │   └── ejercicio3.py
+├── capitulo_04/
+│   └── ejercicio4.py
 ```
 
 > Cada carpeta corresponde a un capítulo del curso y contiene los ejercicios respectivos.
